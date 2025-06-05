@@ -7,12 +7,6 @@ A simple and intuitive task manager built with **React** and **Tailwind CSS**. T
 - ✔️ Mark tasks as completed
 - 🔄 Undo completed tasks
 
----
-
-## 📸 Preview
-
-![Task Manager Preview](link-to-screenshot-or-gif-if-available)
-
 ## Features
 
 - 📌 Add new tasks with ease
